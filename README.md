@@ -16,8 +16,7 @@ conda install -c conda-forge gpyopt pyflann kornia visdom opencv matplotlib imag
 ```
 Matlab and [Matlab Engine API](https://www.mathworks.com/help/matlab/matlab-engine-for-python.html) for Python should be installed properly.
 
-Precomputed Features for PPTBF query can be found in https://drive.google.com/file/d/1lY5Jb_i99FSrfghT_BbgkDQe9iKs2ge_/view?usp=sharing. 
-Please unzip `PPTBF_database.zip` and put all files into `PPTBF/database` folder.
+Precomputed Features for PPTBF query can be found in [google drive](https://drive.google.com/file/d/1_mSTi0OYHQqUNFdPP3gBufUtkqpFx-Dy/view?usp=drive_link). Please unzip `PPTBF_database.zip` and put all files into `PPTBF/database` folder.
 
 *Note that Matlab 2022b doesn't support Python 3.7. We recommend using eariler version of Matlab Engine e.g Matlab 2021b.*
 
